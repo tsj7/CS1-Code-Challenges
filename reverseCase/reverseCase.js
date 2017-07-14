@@ -4,4 +4,15 @@
  * Assume that each string will contain only spaces and letters.
  */
 
+var srt = 'reverse me';
+
+ function reverseWord (str) {
+ 		return str.toLowerCase();
+ }
+
+// reverseWord('REVERSE ME');
+
+console.log(str);
+
+
 
