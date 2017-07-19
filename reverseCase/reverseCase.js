@@ -13,6 +13,3 @@ var srt = 'reverse me';
 // reverseWord('REVERSE ME');
 
 console.log(str);
-
-
-
